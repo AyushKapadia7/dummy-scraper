@@ -32,14 +32,7 @@
     "Enquire": "Make Offer",
     "price": "8,500,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 1,150\nCONFIGURATION: PASSENGER / CORPORATE\n\nCOMPONENT TIMES (RETIREMENT OR OH / HOURS REMAINING)\nAIRFRAME: 2,200 / 1,050\nENGINE: 2,200 / 1,050\n12 YEAR AIRFRAME INSPECTION: 12 YEARS / 7 YEARS REMAINING\n12 YEAR ENGINE INSPECTION: 12 YEARS / 7 YEARS REMAINING\n\nAVIONICS & EQUIPMENT\nNINE HOLE PANEL\nARTIFICIAL HORIZON\nDIRECTION INDICATOR\nALTIMETER\nVERTICAL SPEED INDICATOR\nBENDIX KING TRANSPONDER & COMM\nGARMIN 420 GPS\nAIR-CONDITIONING\nBUBBLE WINDOWS\nLEATHER SEATS\nALL SB’S & AD’S COMPLETED",
-    "airframe": [
-      "HOURS: 1,150",
-      "CONFIGURATION: PASSENGER / CORPORATE"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 1,150", "CONFIGURATION: PASSENGER / CORPORATE"],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -83,14 +76,7 @@
     "Enquire": "Make Offer",
     "price": "4,550,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 32\nCONFIGURATION: VIP PASSENGER\n\nENGINE\nTYPE: ROLLS ROYCE 250-C47E/4\nTIME SINCE NEW: 32 HOURS\n\nAVIONICS\nGARMIN G-1000H NXI\nARTEX C406 ELT\n2 AXIS AUTOPILOT\nGRA-55 RADAR ALTIMETER\nEXPANDED AVIONICS SHELF\n\nEQUIPMENT\nCABIN HEATER SYSTEM\nAUX FUEL TANK\nBAGGAGE FLOOR PROTECTORS\nINLET BARRIER FILTER\nPOLYCARBONATE WINDSHIELDS\nCREW ASSIST HANDLES\nAUTOMATIC DOOR OPENER KIT (ALL DOORS)\nAIRCONDITIONING SYSTEM (DUAL FWD EVAPORATOR & AFT)\nPRE-FLIGHT KIT (STEPS)\nDUAL CONTROLS\nROTOR BRAKE\n5250 LBS MAX GROSS WEIGHT\nDUAL WIRE STRIKE KIT\nLED LIGHTS\n28AMP BATTERY\nCOCKPIT STORAGE KIT\n\nINTERIOR\nVIP LIGHT BEIGE LEATHER\n\nEXTERIOR\nBLUE GOLD & WHITE METALLIC PAINT",
-    "airframe": [
-      "HOURS: 32",
-      "CONFIGURATION: VIP PASSENGER"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 32", "CONFIGURATION: VIP PASSENGER"],
     "avionics": [
       "GARMIN G-1000H NXI",
       "ARTEX C406 ELT",
@@ -98,12 +84,8 @@
       "GRA-55 RADAR ALTIMETER",
       "EXPANDED AVIONICS SHELF"
     ],
-    "interior": [
-      "VIP LIGHT BEIGE LEATHER"
-    ],
-    "exterior": [
-      "BLUE GOLD &amp; WHITE METALLIC PAINT"
-    ]
+    "interior": ["VIP LIGHT BEIGE LEATHER"],
+    "exterior": ["BLUE GOLD &amp; WHITE METALLIC PAINT"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/1990-eurocopter-as350-ba-for-sale-in-south-africa/",
@@ -146,17 +128,9 @@
       "LANDINGS/CYCLES: 9,150",
       "CONFIGURATION: PASSENGER / UTILITY"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
-    "interior": [
-      "LEATHER SEATING"
-    ],
-    "exterior": [
-      "BLUE WITH SILVER &amp; BLACK STRIPES"
-    ]
+    "interior": ["LEATHER SEATING"],
+    "exterior": ["BLUE WITH SILVER &amp; BLACK STRIPES"]
   },
   {
     "url": "https://avpay.aero/company/sellacopter/product/2024-bell-505-for-sale-in-louisiana-usa-n505df/",
@@ -212,10 +186,6 @@
     "price": "2,328,000",
     "long_description": "Description\n\nFinished in a sleek Gunmetal Grey with high skid gear & Solar Advantage windows, it pairs bold aesthetics with practical enhancements like air conditioning with a 3rd evaporator, automatic door openers & an inlet barrier filter. The interior is equally refined, featuring premium black leather seats, coinmat carpet & four-point harnesses throughout.\n\nAvionics include the Garmin G1000-based GDU 1050H with HTAWS & Synthetic Vision, a GFC 600H 3-axis autopilot, radar altimeter, traffic advisory system & FlightStream 510 for seamless connectivity.\n\nWhether you’re flying privately or building a commercial fleet, this helicopter delivers outstanding value & turnkey readiness.\n\nContact us today if you’d like the full spec sheet or to arrange a showing.\n\nAIRCRAFT\nYear: 2024\nMake: Bell\nModel: 505\nEngine: Arrius 2R\nAFTTSN: 85 Hours\nETTSN: 85 Hours\n\nAVIONICS\nGDU 1050H PFD/MFD w/ HTAWS and Synthetic Vision\nGFC 600H 3-Axis Autopilot\nGRA 5500 Radar Altimeter\nGTS5800 Traffic Advisory System (TAS)\nGSU75 ADAHRS\nGTX345R Transponder w/ ADS-B In/Out\nGMA350HC Audio Panel w/ Bluetooth\nGTR 225B Com 2\nGIA64H Integrated Avionics Unit\nFlightstream 510\nELT\n\nEQUIPMENT\nAir Conditioning w/ 3rd Evaporator\nAutomatic Door Openers\nHigh Skid Gear w/ Crew Step\n3 Movable Ballast Kids (Fwd, Aft, Prov)\nInlet Barrier Filter\nDual Controls\nRotor Brake\nSolar Advantage Windows\nTinted Windshield\nFRAHM Assembly\nLithium Ion 17A Battery",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "GDU 1050H PFD/MFD w/ HTAWS and Synthetic Vision",
       "GFC 600H 3-Axis Autopilot",
@@ -279,10 +249,6 @@
     "price": "899,000",
     "long_description": "Description\n\nThis helicopter has had only two owners since new & has been meticulously maintained by professional technicians throughout its life. This helicopter just had a fresh annual & NOTAR Straps replaced July 2025. With a total airframe & engine time of just 1,655.9 hours, it remains a low-time aircraft in great condition. The current owner, having personally flown the aircraft for over 1,000 hours, is selling due to expanding business demands, which leaves little time for flight operations. As a result, the helicopter is ready & available for immediate sale to a new owner.\n\nWhether you’re a private enthusiast seeking the unique thrill of flying a NOTAR-equipped MD helicopter or a utility operator needing the robust capabilities of the 600N for your mission, this aircraft is an excellent fit. With its highly motivated seller, this MD 600N is priced competitively, offering outstanding value.\n\nFull scan records are available upon request & the aircraft is located in Islip, Long Island, New York, ready for showings.\n\nDon’t miss out on this opportunity to own a reliable, well-maintained MD 600N!\n\nAIRCRAFT\nYear: 1998\nMake: MD\nModel: 600N\nEngine: Rolls Royce 250-C47M\nAFTTSN: 1,655.9 Hours\nETTSN: 1,655.9 Hours\n\nAVIONICS\nGarmin GMX-200 MFD\nGarmin GNS530 NAV/COM\nBendix King KY196A COM2\nGarmin GTX330 Transponder\nPMA7000H Audio Panel\n\nEQUIPMENT\nStandard Equipment",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "Garmin GMX-200 MFD",
       "Garmin GNS530 NAV/COM",
@@ -331,10 +297,6 @@
     "price": "545,000",
     "long_description": "Description\n\nEQUIPMENT LIST\nWIRE STRIKE KIT\nGARMIN 750\nGARMIN GTN 750 GPS/SBAS NAV\nGARMIN G500H FLIGHT DISPLAY\nALTIMETER\nAIRSPEED INDICATOR\nDUAL TACHOMETER\nGAS PRODUCER TACH\nFUEL PRESSURE\nFUEL QUANTITY\nTORQUE METER\nDIAMON J TOT INDICATOR\nENGINE OIL PRESSURE/ TEMP GAGE\nCOMPASS, MAGNETIC STANDBY\nCLOCK\nOUTSIDE AIR TEMPERATURE GAGE (OAT)\nMASTER CAUTION PANEL\nSTARTER GENERATOR\nMAIN AIRCRAFT BATTERY\nPILOT SEAT & SEAT BELTS\nCO-PILOT SEAT & SEAT BELTS\nREAR PASSENGER SEAT & BELTS\nREAR PASSENGER SEAT & BELTS\nREAR PASSENGER SEAT & BELTS\nFIRE EXTINGUISHER\nFLIGHT MANUAL\nELT & MOUNTING TRAY\nAUDIO PANEL\nSTROBE LIGHT\nSTROBE POWER SUPPLY\nHIGH LANDING GEAR WITH STEP\nAIRCOMM BLEED AIR HEATER\nCOCKPIT SPOTLIGHT\nINLET BARRIER FILTER\nDIRECTIONAL GYRO\nNAV/COMM RECIEVER\nFACET OIL FILTER\nAIRFRAME FUEL FILTER\nGARMIN GNC 255A/255B\nATTITUDE INDICATOR\nGARMIN GTX 345R TRANSPONDER\nAAI FOLDING MAINTENANCE STEP\nAAI FLITE STEP\nAAI TR PEDAL LOCKOUT KIT\nPMA7000H\nMAGELLAN AEROSPACE WSPS",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -398,10 +360,6 @@
       "Range: 306 nm",
       "Max Cruise: 125 kts"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "Garmin G1000H NXi Integrated Avionics",
       "Dual 10.4” GDU high-resolution LED displays",
@@ -417,9 +375,7 @@
     "interior": [
       "The interior of the aircraft is mostly black. It features ergonomically designed crew seats with double strap shoulder harnesses for safety, while the passenger seats are done in black fabric &amp; have four point restraint harnesses. &nbsp;"
     ],
-    "exterior": [
-      "The aircraft is black with a silver tail number."
-    ]
+    "exterior": ["The aircraft is black with a silver tail number."]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/2007-bell-206-b3-jetranger-helicopter-for-sale-in-new-zealand/",
@@ -456,10 +412,6 @@
       "AIRFRAME HOURS 3,742 HOURS",
       "CONFIGURATION PASSENGER/UTILITY"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "PS ENGINEERING PMA 8000C",
       "GARMIN GTR225 VHF COM",
@@ -472,9 +424,7 @@
       "TIDY BLACK LEATHER SEATS WITH WHITE STITCHING. EXCELLENT CONDITION",
       "BLACK CABIN FLOOR PROTECTORS"
     ],
-    "exterior": [
-      "WHITE PAINT WITH GREY STRIPE"
-    ]
+    "exterior": ["WHITE PAINT WITH GREY STRIPE"]
   },
   {
     "url": "https://avpay.aero/company/mach-aviation/product/off-market-2023-24-bell-407gxi-for-sale-in-united-kingdom/",
@@ -507,10 +457,6 @@
     "price": "4,550,000",
     "long_description": "Description\n\nHIGHLIGHTS\nLocated in the UK\nCorporate Use Only\nMeticulously Maintained\nAlways kept in a Hangar\nAlways flown by a High Hour Pilot\nAvailable Immediately\n\nAVIONICS\nGlass Cockpit – G1 000H NXi (Garmin)\n3-Axis AFCS – Autopilot\nAxis Co-Pilot AFCS Controls\nRadar Altimeter – GRA 55\nTraffic Avoidance System – GTS 800 TAS (Garmin)\nTransponder GTX 345R\nFlight Stream 510\nMid-Continent MD-302 Standby Attitude Module (AA)\n\nEQUIPMENT\n3-Axis Autopilot\nAux Fuel Tank (19 Gal)\nTail Rotor Camera\nParticle Separator With Engine Bleed Air Network\nDual Controls\nRotor Brake\nArtex C406-NHM ELT\nBleed Air Heater -w- Windshield & Chin Bubble Defrost (Air Comm)\nWire Strike Protection System\nHigh Vis – M/R Blades\nHigh Skid Gear -w- Flitesteps\n28 Amps Battery\n5250 lbs Max.Gross Weight\nExpanded Avionics Shelf\nPrecise Flight Pulse Landing Light\nDoor Openers – Automatic – for Crew Doors (AA)\nDoor Openers – Automatic – for Cabin Doors (AA)\nDoor Openers – Automatic – for Baggage Door (AA)\nPre-Flight Kit Includes (4) Step Handles (2) Folding\nMaintenance Steps or (2) Access. Steps (1) Door\nRetention Strap (AA)\nSpacemaker & Cover (AA)\nRubber Mounted Chin Bubbles (AA)\nLocking Fuel Cap Kit (AA)\n\nINTERIOR\nVIP Cream Leather Interior\nCorporate Soundproofing\nCabin Tinted Windows (Light. Grey)\nCorporate Armrests\nICS – Cabin Call -w- LED Light\nICS – 7 Place – Bose LEMO jacks\nLED Lighting (Interior/Exterior)\n\nEXTERIOR\nExterior Paint Scheme, Sweeping Metallic Black & Grey Colours\n\nSpecifications & details are subject to verification upon inspection. Aircraft is offered subject to prior sale or withdrawal from the market.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "Glass Cockpit – G1 000H NXi (Garmin)",
       "3-Axis AFCS – Autopilot",
@@ -567,26 +513,15 @@
     "Enquire": "Make Offer",
     "price": "595,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 11,011 HOURS\nCONFIGURATION: PASSENGER/ UTILITY\n\nENGINE\nTYPE: C20B\n\nTIME REMAINING\nCOMPRESSOR: 1,094\nIMPELLER: 1,144\nTURBINE 775\nTURBINE #1 WHEEL: 841\nTURBINE #2 WHEEL: 841\nTURBINE #3 WHEEL: 2,268\nTURBINE #4 WHEEL: 3,616\n\nCOMPONENT TIMES (HOURS REMAINING)\nTRB: 3,433\nTGB: 3,492\nMGB: 606\nMRB: 9,227\nMR HUB: 1,280\n\nAVIONICS\nGARMIN GTR225 VHF COM\nGARMIN GTX345 AUDIO PANEL\nGARMIN GTX335 TRANSPONDER\nKANNAD AF406H ELT\n\nEQUIPMENT\nWIRE STRIKE KIT\nA/F FUEL FILTER\nDUAL CONTROLS\nCO-PILOT PEDAL LOCKOUT KIT\nDOOR OPENERS\nFLOOR PROTECTORS\nCARGO HOOK\nHOOK MIRROR\nBAGGAGE EXTENDER\nSNOW SHOES\nHIGH GROSS WEIGHT SKID GEAR\nDAVTRON CLOCK/OAT\nWEDGE WINDOWS\nZAPPER CHIP DETECTOR\nAUTO RELIGHT\nSWITCHABLE BLEED AIR OUTLETS\nROTOR BRAKE\n*SPRAY EQUIPMENT NEGOTIABLE SEPARATELY*\n\nINTERIOR\nDARK GREY LEATHER\n\nEXTERIOR\nWHITE/BLUE",
-    "airframe": [
-      "HOURS: 11,011 HOURS",
-      "CONFIGURATION: PASSENGER/ UTILITY"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 11,011 HOURS", "CONFIGURATION: PASSENGER/ UTILITY"],
     "avionics": [
       "GARMIN GTR225 VHF COM",
       "GARMIN GTX345 AUDIO PANEL",
       "GARMIN GTX335 TRANSPONDER",
       "KANNAD AF406H ELT"
     ],
-    "interior": [
-      "DARK GREY LEATHER"
-    ],
-    "exterior": [
-      "WHITE/BLUE"
-    ]
+    "interior": ["DARK GREY LEATHER"],
+    "exterior": ["WHITE/BLUE"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/2006-enstrom-480b-turbine-for-sale-in-new-zealand/",
@@ -626,14 +561,7 @@
     "Enquire": "Make Offer",
     "price": "435,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 1,522 HOURS\nCONFIGURATION: PAX / UTILITY\n\nENGINE\nTYPE: ROLLS ROYCE 250-C20W\nTOTAL TIME: 1,522\n1ST STAGE WHEEL HOURS REMAINING: 252\n2ND STAGE WHEEL HOURS REMAINING: 252\n3RD STAGE WHEEL HOURS REMAINING: 3,027\n4TH STAGE WHEEL HOURS REMAINING: 3,027\nCOMPRESSOR TIME REMAINING: 1,977\nIMPELLOR TIME REMAINING: 2,027\n\nCOMPONENT TIMES (HOURS REMAINING)\nMAIN ROTOR GEARBOX TIME REMAINING: 1,128\nTAIL ROTOR GEARBOX TIME REMAINING: 500\nMAIN ROTOR BLADES: O/C\nTAIL ROTOR BLADES: O/C\n\nAVIONICS\nGNS 530 NAV/COM/GPS\nASPIN PFD & MFD\nGMA340 AUDIO PANEL\nL3 ADSB IN & OUT\nKANNAD 406 ELT\n\nEQUIPMENT\nDUAL CONTROLS\nCOVERS\n3 & 5 SEAT CONFIGURATION\nGROUND HANDLING WHEELS\n\nINTERIOR\n3 & 5 SEAT CONFIGURATION",
-    "airframe": [
-      "HOURS: 1,522 HOURS",
-      "CONFIGURATION: PAX / UTILITY"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 1,522 HOURS", "CONFIGURATION: PAX / UTILITY"],
     "avionics": [
       "GNS 530 NAV/COM/GPS",
       "ASPIN PFD &amp; MFD",
@@ -641,9 +569,7 @@
       "L3 ADSB IN &amp; OUT",
       "KANNAD 406 ELT"
     ],
-    "interior": [
-      "3 &amp; 5 SEAT CONFIGURATION"
-    ],
+    "interior": ["3 &amp; 5 SEAT CONFIGURATION"],
     "exterior": []
   },
   {
@@ -680,14 +606,7 @@
     "Enquire": "Make Offer",
     "price": "2,595,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 1,860 HOURS\nCONFIGURATION VIP PASSENGER\n\nENGINE\nTYPE: ROLLS ROYCE 250-C47B\nTIME SINCE NEW: 1,860 HOURS\nSTAGE 1 & 2: 50 HOURS REMAINING\nSTAGE 3 & 4: 2,600 HOURS REMAINING\n\nCOMPONENT TIMES (HOURS REMAINING)\nMGB: 3,140\nTGB: 3,140\nMRB: ON CONDITION\nTRB: ON CONDITION\n\nAVIONICS\nAUDIO PANEL GARMIN\nARTEX 406\nBENDIX KING HIS\nGARMIN GNS 420 GPS/COMM/NAV\nBENDIX KING KMD 150 GPS\nADF BENDIX KING KR87 TSO\nTRANSPONDER GARMIN 327\n\nEQUIPMENT\nCABIN HEATER SYSTEM\nAUX FUEL TANK\nBAGGAGE FLOOR PROTECTORS\nIBF BARRIER FILTER\nAUTOMATIC DOOR OPENER KIT (ALL DOORS)\nAIRCONDITIONING SYSTEM (DUAL FWD EVAPORATOR & AFT)\nPRE-FLIGHT KIT (STEPS)\nSPACE MAKER\nCARGO HOOK – FIXED PROVISIONS\nDUAL CONTROLS\nLITTER KIT PROVISION\nROTOR BRAKE\n7 X DAVID CLARK HEADSETS\n\nINTERIOR\nVIP STONE/GREY LEATHER SEATS\n\nEXTERIOR\nSILVER & BLACK METALLIC PAINT WITH RED ACCENT",
-    "airframe": [
-      "HOURS: 1,860 HOURS",
-      "CONFIGURATION VIP PASSENGER"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 1,860 HOURS", "CONFIGURATION VIP PASSENGER"],
     "avionics": [
       "AUDIO PANEL GARMIN",
       "ARTEX 406",
@@ -697,12 +616,8 @@
       "ADF BENDIX KING KR87 TSO",
       "TRANSPONDER GARMIN 327"
     ],
-    "interior": [
-      "VIP STONE/GREY LEATHER SEATS"
-    ],
-    "exterior": [
-      "SILVER &amp; BLACK METALLIC PAINT WITH RED ACCENT"
-    ]
+    "interior": ["VIP STONE/GREY LEATHER SEATS"],
+    "exterior": ["SILVER &amp; BLACK METALLIC PAINT WITH RED ACCENT"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/2014-mcdonnell-douglas-md-530ff-for-sale-in-new-zealand/",
@@ -740,26 +655,15 @@
     "Enquire": "Make Offer",
     "price": "2,250,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 2,204 HOURS\nCONFIGURATION: PASSENGER/UTILITY\n\nENGINE\nTYPE: ROLLS ROYCE 250-C30\nTIME SINCE NEW: 2,204\nCOMPRESSOR ASSEMBLY INSP: 1,427\nCOMPRESSOR IMPELLER: 12,795\nTURBINE WHEEL #1: 2007\nTURBINE WHEEL #2: 2007\nTURBINE WHEEL #3: 2,532\nTURBINE WHEEL #4: 2,532\nFCU: 422\nIMPELLER INSP: 7,795\nTURBINE ASSY O/H: 1,982\n\nCOMPONENT TIMES (HOURS REMAINING)\nMGB: 2,795\nMRB: 1,225\nMR HUB: 562\nMR MAST: 8,245\nTGB: 1,160\nTRB: 3,245/3,031\n\nAVIONICS\nGARMIN GMA345 AUDIO\nGARMIN GTR 225 COMM\nGARMIN GTX 345 TRANSPONDER\nEAGLEI 4K COCKPIT CAMERA\n\nEQUIPMENT\nCARGO HOOK\nDART CARGO MIRROR\nBLEED AIR\n\nINTERIOR\nDARK GREY LEATHER\n\nEXTERIOR\nDARK/LIGHT BLUE",
-    "airframe": [
-      "HOURS: 2,204 HOURS",
-      "CONFIGURATION: PASSENGER/UTILITY"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 2,204 HOURS", "CONFIGURATION: PASSENGER/UTILITY"],
     "avionics": [
       "GARMIN GMA345 AUDIO",
       "GARMIN GTR 225 COMM",
       "GARMIN GTX 345 TRANSPONDER",
       "EAGLEI 4K COCKPIT CAMERA"
     ],
-    "interior": [
-      "DARK GREY LEATHER"
-    ],
-    "exterior": [
-      "DARK/LIGHT BLUE"
-    ]
+    "interior": ["DARK GREY LEATHER"],
+    "exterior": ["DARK/LIGHT BLUE"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/1993-mbb-bk117-b2-for-sale-in-africa/",
@@ -794,14 +698,7 @@
     "Enquire": "Make Offer",
     "price": "1,300,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 10,392 HOURS\nCONFIGURATION: HEMS\n\nENGINE\nTYPE: LTS 101-750B-1\n#1 ENGINE H.S.I. (1800 HOURS): 1,275 TIME REMAINING\n#2 ENGINE H.S.I. (1800 HOURS): 1,014 TIME REMAINING\n\nCOMPONENT TIMES (HOURS REMAINING)\nMGB: 238 + 2,214\nMRB: ON CONDITION\nTRB: ON CONDITION\nTGB: 1,965\nIGB: 1,237\n\nAVIONICS\nVHF-COM #1 BENDIX KING KTR908\nVHF-COM #2 BENDIX KING KTR908\nNAV #1 BENDIX KING KNR634A\nNAV #2 BENDIX KING KNR634A\nDME BENDIX KING DM441B\nTRANSPONDER GARMIN GTX 330\nINTERCOM BECKER\nELT ARTEX C406-2HM\nAUTO PILOT 3 AXIS FZ 710\nCVR FA2100 L3\nEFIS 4 X BENDIX KING 50\n\nEQUIPMENT\nLANDING & SEARCH LIGHT\nNIGHTSUN\nWIDE CHORD TRB’S\nEMS KIT\nCARGO HOOK\n\nEXTERIOR\nYELLOW",
-    "airframe": [
-      "HOURS: 10,392 HOURS",
-      "CONFIGURATION: HEMS"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 10,392 HOURS", "CONFIGURATION: HEMS"],
     "avionics": [
       "VHF-COM #1 BENDIX KING KTR908",
       "VHF-COM #2 BENDIX KING KTR908",
@@ -816,9 +713,7 @@
       "EFIS 4 X BENDIX KING 50"
     ],
     "interior": [],
-    "exterior": [
-      "YELLOW"
-    ]
+    "exterior": ["YELLOW"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/1995-mcdonnell-douglas-md-520n-for-sale-in-new-zealand/",
@@ -855,14 +750,7 @@
     "Enquire": "Make Offer",
     "price": "780,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 11,709 HOURS\nCONFIGURATION: PASSENGER/ UTILITY\n\nENGINE\nTYPE: RR250-C20R/2\nTURBINE: 1,717\nCOMPRESSOR: 472\nGEARBOX: O/C\n\nCOMPONENT TIMES (HOURS REMAINING)\nMRB’S: 328\nMGB: 832\nFAN BLADE ASSY: 7,238\nTAIL BOOM: 4,230\nMR HUB: 2,576\n\nEQUIPMENT\nONBOARD SYSTEMS HYDRAULIC CARGO HOOK\nFARGO AUX FUEL TANK\nWIRE STRIKE KIT WSPS\nPARTICLE SEPARATOR\nROTOR BRAKE\nSTAINLESS STEEL ENGINE BAY FIRE SHIELD\nOCEANIA AVIATION MD500 SPRAY SYSTEM\nFACET OIL FILTER KIT\nHIGH SKIDS WITH SNOW SHOES\nDUAL CONTROLS\nCABIN HEAT\nEXTERNAL BLEED AIR\nAERONAUTICAL ACCESSORIES RAIN GUTTERS\nGROUND HANDLING WHEELS\nUSB PORTS\nPNEUMATIC DOOR OPENERS\nRAPID RELEASE DOOR HINGES\nVANHORN SWASHPLATE CLIPS\nDOOR PIN MOD\nWACO STARTER GEN COOLER\n\nSPRAY GEAR IS AN OPTIONAL EXTRA\n\nAVIONICS\nDUAL GARMIN GTR225 VH/COMM\nGARMIN GTX345 ADS-B OUT TRANSPONDER\nGMA340 AUDIO PANEL\nDAVTRON CLOCK\nARTIFICIAL HORIZON\n\nINTERIOR\nBRAND NEW GENERATION GLOBAL SEATS",
-    "airframe": [
-      "HOURS: 11,709 HOURS",
-      "CONFIGURATION: PASSENGER/ UTILITY"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 11,709 HOURS", "CONFIGURATION: PASSENGER/ UTILITY"],
     "avionics": [
       "DUAL GARMIN GTR225 VH/COMM",
       "GARMIN GTX345 ADS-B OUT TRANSPONDER",
@@ -870,9 +758,7 @@
       "DAVTRON CLOCK",
       "ARTIFICIAL HORIZON"
     ],
-    "interior": [
-      "BRAND NEW GENERATION GLOBAL SEATS"
-    ],
+    "interior": ["BRAND NEW GENERATION GLOBAL SEATS"],
     "exterior": []
   },
   {
@@ -913,10 +799,6 @@
     "price": "450,000",
     "long_description": "Description\n\nThis helicopter is powered by a pair of reliable Rolls-Royce 250-C20B engines. Engine #1 shows 7,015.2 total hours with 1,440.8 hours since overhaul, while Engine #2 has 12,114.9 hours total time & 2,217 hours since overhaul. The airframe has accumulated 4,780.7 total hours & has just completed a fresh annual inspection. New TT straps have been installed & all Airworthiness Directives are current, ensuring this aircraft is turn-key and ready for immediate operations.\n\nEquipped with a dependable avionics suite, this BO105 includes a King digital 165 Nav/Comm, Garmin GNS 530 GPS/NAV/COM, Garmin GTX 330 transponder &a Garmin 340 audio panel, providing solid situational awareness & navigation capability for both VFR & IFR conditions.\n\nCombining Eurocopter engineering with aerobatic performance, a robust maintenance status & a well-rounded avionics package, this BO105CBS-4 is a rare opportunity for those looking to own & fly a true classic with unmatched versatility & flair.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -956,10 +838,6 @@
     "price": "2,450,000",
     "long_description": null,
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -999,10 +877,6 @@
     "price": "1,850,000",
     "long_description": "Description\n\nThis Bell 430 is equipped with a comprehensive avionics suite, including dual Garmin GPS 500, dual AFCS with 4-tube EFIS, Honeywell KTA 870 TAS, WX Radar ART 2000, L3 Stormscope & dual PAC-24 audio panels, among many others. The aircraft offers the latest situational awareness & safety enhancements expected from a professionally maintained IFR platform. It also features a co-pilot EFIS station & an integrated moving map display for improved mission versatility.\n\nConfigured with a five-place VIP Quietzone interior & enhanced with high-visibility paint, cabin intercom, dual Bose headsets & forward pulse lighting, this aircraft ensures both comfort & operational effectiveness. Additional equipment includes a rotor brake, particle separators, heated windshield, retractable landing gear, SAT phone, XM radio & cargo hook provisions — reflecting the aircraft’s capability for a variety of missions, from corporate transport to special utility operations.\n\nBoth Rolls-Royce 250-C40B engines & all dynamic components show low time & are in excellent condition. The helicopter benefits from a fresh annual inspection & is currently operating under Part 91 private use, fully current & ready for immediate delivery.\n\nLocated in the United States & offered with optional management & operational support, this Bell 430 stands as a premier option for buyers looking for a turn-key solution in the twin-engine VIP helicopter market.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1044,10 +918,6 @@
     "price": "1,325,000",
     "long_description": "Description\n\nN822ET is a highly upgraded & meticulously maintained Airbus EC120B Colibri, representing one of the cleanest examples on the market today. With a fresh April 2025 annual inspection & a long list of avionics, interior & cosmetic upgrades, this helicopter is fully turnkey & ideal for private or commercial operations. Whether for VIP transport, utility or leisure flying, N822ET offers a rare combination of performance, style & reliability.\n\n‍Recent Upgrades & Features\nGarmin G500 Glass Panel.\nFully integrated PFD/MFD system providing modern situational awareness with synthetic vision, terrain, traffic & engine monitoring.\nGarmin GTN 750 GPS/NAV/COMM.\nTouchscreen WAAS GPS with integrated NAV/COMM, traffic overlay & advanced navigation capability. ADS-B compliant.\nNew SOKKIA Pitot-Static System.\nProfessionally installed new socket pitot-static system for accurate airspeed & altitude readings. Fully compliant & recently tested.\n\nInterior Refurbishment\nBrand-new front pilot & co-pilot seating, reupholstered in high-quality materials.\nNew custom-fitted floor covering for durability & aesthetic appeal.\nNew headliner gives the cabin a clean, quiet & refined interior atmosphere.\n\nExterior & Paint\nRecently repainted tail boom & touch-ups across the aircraft. The paint presents extremely well in person & shows pride of ownership. Trump Force 2.\nCustoms Entry Letter Provided.\n\nRemarks\nN822ET is fully cleared with U.S. Customs & includes the proper documentation to ensure smooth cross-border transactions & operation.\nRecent Annual Inspection.\nThe helicopter underwent a full annual inspection in April 2025 with no airworthiness issues. All logbooks are up to date & organized.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1087,10 +957,6 @@
     "price": "1,700,000",
     "long_description": null,
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1130,14 +996,7 @@
     "Enquire": "Make Offer",
     "price": "3,650,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 3,291 HOURS\nCONFIGURATION: VIP\n\nENGINES (1/2)\nTYPE: PW207C X2\nTIME SINCE NEW: 706 HOURS / 760 HOURS\n\nCOMPONENT TIMES (TBO/SLL / HOURS REMAINING)\nMAIN ROTOR BLADE 1: 8,800 / 5,891\nMAIN ROTOR BLADE 2: 8,800 / 5,553\nMAIN ROTOR BLADE 3: 8,800 / 6,138\nMAIN ROTOR BLADE 4: 8,800 / 5,508\nTAIL ROTOR BLADE X2: 10,000 / 8,370\nMAIN TRANSMISSION: 4,800 / 1,228\n90-DEGREE GEARBOX: 3,000 / 983\n\nAVIONICS\nNAVIGATION SYSTEM WITH EFIS (PILOT & ﻿CO-PILOT)\nVHF/COM/NAV/GPS\nAUTOMATIC FLIGHT CONTROL SYSTEM (3 AXIS DUPLEX)\nMULTIFUNCTION DISPLAY\nTRANSPONDER TDR-94D MODE S\nEMERGENCY LOCATOR TRANSMITTER (ELT) SYSTEM\nWEATHER RADAR RDR2000\nCOCKPIT CENTRAL MONITOR 8.4″\nTAS, DIGITAL MAP GENERATOR\n\nEQUIPMENT\nELECTRICAL STEP BAR RIGHT SIDE WITH SINGLE ACTUATOR\nSOUND PROOFING KIT\nPASSIVE VIBRATION ABSORBER\nINTERCOMMUNICATION SYSTEM (ICS), VIP VERSION\nROTOR BRAKE SYSTEM\nAUXILIARY FUEL TANKS\nBAGGAGE COMPARTMENT EXTENSION\nEMERGENCY FLOATS PROVISION ONLY\nINSTALLATION OF THE 20 CELLS BATTERY KIT\nPILOT/CO-PILOT STEPS\nRIPPLE DAMPER, HYDRAULIC SYSTEM\nCABIN SUNBLINDS (NOT NVG COMPATIBLE)\nENGINE INLET PARTICLE SEPARATOR SYSTEM\nCABIN FOLDABLE FOOTSTEP (LEFT/RIGHT SIDE)\n\nINTERIOR\nVIP INTERIOR CONFIGURATION",
-    "airframe": [
-      "HOURS: 3,291 HOURS",
-      "CONFIGURATION: VIP"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 3,291 HOURS", "CONFIGURATION: VIP"],
     "avionics": [
       "NAVIGATION SYSTEM WITH EFIS (PILOT &amp; CO-PILOT)",
       "VHF/COM/NAV/GPS",
@@ -1149,9 +1008,7 @@
       "COCKPIT CENTRAL MONITOR 8.4″",
       "TAS, DIGITAL MAP GENERATOR"
     ],
-    "interior": [
-      "VIP INTERIOR CONFIGURATION"
-    ],
+    "interior": ["VIP INTERIOR CONFIGURATION"],
     "exterior": []
   },
   {
@@ -1189,10 +1046,6 @@
     "price": "795,000",
     "long_description": null,
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1257,10 +1110,6 @@
       "TOTAL TIME: 2400 Hrs",
       "HMI O/H PERFORMED at 1900Hrs TT"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "GARMIN GTN 650 GPS/NAV/COM",
       "KX-155-34 NAV/COM (BACKUP RADIO)",
@@ -1279,9 +1128,7 @@
       "BLACK &amp; BROWN LEATHER INTERIOR WITH MATCHING PANELS",
       "PASSENGER CONFIGURATION"
     ],
-    "exterior": [
-      "SOLID BLACK"
-    ]
+    "exterior": ["SOLID BLACK"]
   },
   {
     "url": "https://avpay.aero/company/pacific-airhub-aircraft-sales/product/1995-bell-206-biii-turbine-helicopter-for-sale-2/",
@@ -1318,14 +1165,7 @@
     "Enquire": "Make Offer",
     "price": "595,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 9934 HOURS\nCONFIGURATION: PASSENGER\n\nENGINE\nTYPE: C20J\nSTAGE 2 TIME REMAINING: 1270\nSTAGE 3 TIME REMAINING: 2507\nSTAGE 4 TIME REMAINING: 2507\nCOMPRESSOR TIME REMAINING: 1457\nIMPELLOR: 1507\n\nCOMPONENT TIMES (HOURS REMAINING)\nTRB: 167\nTGB: 2067\nMGB: 3632\nMRB: 167\nMR HUB: 695\n\nAVIONICS\nGARMIN GTX345 IN/OUT TRANSPONDER\nNAT AMS44\nKING KY196A\nTRIMBLE TNL2000 GPS\nARTEX ME406 ELT\n\nEQUIPMENT\nINTERIOR TRIM KIT\nDUAL CONTROLS\nWIRE STRIKE PROTECTION\nFACET OIL FILTER\nALTERNATIVE BATTERIES (ODYSSEY)\nCABIN HEATER/DEFROSTER\nFLITESTEPS\nFOLDING MAINTENANCE STEP\nSTEP/HANDLE KIT\nCREW WEDGE WINDOWS\nBAGGAGE BAY SPACEMAKER\nDOOR OPENER KIT\nFROST LIGHTS\n\nINTERIOR\nBLUE CLOTH SEATS WITH BLUE CARPET\n\nEXTERIOR\nWHITE/DARK BLUE",
-    "airframe": [
-      "HOURS: 9934 HOURS",
-      "CONFIGURATION: PASSENGER"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 9934 HOURS", "CONFIGURATION: PASSENGER"],
     "avionics": [
       "GARMIN GTX345 IN/OUT TRANSPONDER",
       "NAT AMS44",
@@ -1333,12 +1173,8 @@
       "TRIMBLE TNL2000 GPS",
       "ARTEX ME406 ELT"
     ],
-    "interior": [
-      "BLUE CLOTH SEATS WITH BLUE CARPET"
-    ],
-    "exterior": [
-      "WHITE/DARK BLUE"
-    ]
+    "interior": ["BLUE CLOTH SEATS WITH BLUE CARPET"],
+    "exterior": ["WHITE/DARK BLUE"]
   },
   {
     "url": "https://avpay.aero/company/s-p-helicopter-service-gmbh/product/1977-mcdonnell-douglas-md500d-turbine-helicopter-for-sale-d-hpet/",
@@ -1378,10 +1214,6 @@
     "price": "849,750",
     "long_description": "Description\n\nTotal Time\n14,642 hours\n\nSeats\n1 + 4\n\nLocation\nDattenberg, Germany (50km south of Cologne)\n\nClick to open Component Times PDF\nClick to open Equipment List PDF\nClick to open Certificate PDF",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1438,10 +1270,6 @@
     "price": "750,000",
     "long_description": null,
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1491,22 +1319,14 @@
       "CONFIGURATION: PASSENGER / UTILITY",
       "EMPTY WEIGHT: 1,573 LBS"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "GARMIN GMA350HC AUDIO PANEL",
       "GARMIN GTR225 VHF COMM",
       "APPAREO STRATUS ADS-B OUT TRANSPONDER",
       "KANNAD AF-H INTEGRA ELT"
     ],
-    "interior": [
-      "BRAND NEW LEATHER BY GENERATION GLOBAL"
-    ],
-    "exterior": [
-      "BRAND NEW PAINT"
-    ]
+    "interior": ["BRAND NEW LEATHER BY GENERATION GLOBAL"],
+    "exterior": ["BRAND NEW PAINT"]
   },
   {
     "url": "https://avpay.aero/company/europlane-sales-ltd/product/1973-westland-gazelle-ht-mk2-turbine-helicopter-half-share-for-sale-g-bzdv/",
@@ -1547,10 +1367,6 @@
     "price": "185,000",
     "long_description": null,
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1593,10 +1409,6 @@
     "price": "1,250,000",
     "long_description": "Description\n\nGENERAL DETAILS\nLENGTH: 35 FT 5 IN (11.79 M)\n*ROTOR DIAMETER: 27 FT 6 IN (8.38 M)\n*HEIGHT: 8 FT 9 IN (2.65 M)\n*MAIN ROTOR ROTATING AREA: 594.0 SQ FT (55.2 M²)\nEMPTY WEIGHT: 2,100 LB (952 KG)\nMAXIMUM WEIGHT: 4,100 LB (1,860 KG)\n\nPERFORMANCE\n*MAXIMUM SPEED: 152 KNOTS (175 MPH, 282 KM/H)\n*CRUISING SPEED: 135 KNOTS (MPH, 249 KM/H)\n*RANGE: 232 NMI (267 MI, 429 KM)\n*OPERATING CEILING: 18700 FT (6240M)\n\nENGINE\n1 ROLLS ROYCE (ALLISON) MODEL 250-C47 TURBINE, 600 HP (447 KW)\n\nAVIONICS\nGPS GNS430\nGarmin GTX330\n2 VHF RADIOS\nAUDIO BOX PSI7000\nSL40 COMM\nUNITED ALTIMETER\nIPHOD\nGTX NAV WITH WEIKE ELIS\n\nEQUIPMENT\nAIR CONDITIONING\nROTORB BRAKE\nAUX FUEL TANK SYSTEM\nBLUE TOOTH BOSE A20 HEADSETS X 4\nDUAL CONTROLS\nARTEX ELT\nLOCKING FUEL CAP\nADS / SBS CURRENT\nALL MANUALS & SERVICE HISTORY UP TO DATE\n\nINTERIOR\nVIP LEATHER INTERIOR\n6 PASSENGERS\n5 PLACE REAR CABIN\n1 PAX BESIDE PILOT\nNEW LEATHER IN 2021\n\nEXTERIOR\nPAINT SCHEME: STUNNING RED METALLIC\n\nSpecifications & details are subject to verification upon inspection. Aircraft is offered subject to prior sale or withdrawal from the market.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "GPS GNS430",
       "Garmin GTX330",
@@ -1614,9 +1426,7 @@
       "1 PAX BESIDE PILOT",
       "NEW LEATHER IN 2021"
     ],
-    "exterior": [
-      "PAINT SCHEME: STUNNING RED METALLIC"
-    ]
+    "exterior": ["PAINT SCHEME: STUNNING RED METALLIC"]
   },
   {
     "url": "https://avpay.aero/company/europlane-sales-ltd/product/2021-airbus-h125-as350b3-turbine-helicopter-for-sale-g-hayz/",
@@ -1661,10 +1471,6 @@
     "price": "2,795,000",
     "long_description": "Description",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1701,10 +1507,6 @@
     "price": "795,000",
     "long_description": "Description\n\nKnown Squawks\nLongitude Trim- out\nAnnual Scheduled late February 2024\nEngine work completed: With AD compliance for Power Turbine wheels (3&4)",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1738,10 +1540,6 @@
     "price": "672,490",
     "long_description": "Description\n\nExceed Expectations\nThe ideal blend of proven & innovative engineering. Delivering cutting edge, industry leading & reliable helicopters both for your own travel as well as with customization options for a huge range of missions & applications.\n\nRobinson R44 Operating Performance\nThe new fuel-injected engine provides higher power for better performance & eliminates the need for carburettor heat. The engine is de-rated to 245 HP for 5 minutes & 205 HP maximum continuous rating, to assure a longer life & lower cost of maintenance. Overall, the Raven II provides a favourable 100 lb increase in the Robinson R44’s gross weight & increased IGE & OGE hover ceilings. Another major enhancement is the reduced noise level of the Raven II. The quieter helicopter features redesigned main & tail rotor blades. Both sets of rotors are fitted with noise attenuating blade tip caps that decrease flyover noise by 1dB. The main rotor blades also have more surface area for increased lifting capability at altitude.\n\nRobinson R44 Versatility\nThe Raven II is equipped with a fuel-injected, angle-valve, tuned-induction, IO-540 Lycoming engine which produces substantially more power & gives the R44 Raven II greater altitude performance, more payload & increased speed. The Robinson R44 Raven II configuration is also available as an IFR Trainer, Newscopter, Police Helicopter & Clipper II (with floats).\n\nNew Robinson R44 Pricing & Delivery\nBuying a new Robinson R44 is made easy with Heli Air. Contact our helicopter sales team today for further details about how to buy an R44 & for any friendly, professional advice about which helicopter may suit you best.",
     "airframe": [],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1790,10 +1588,6 @@
       "EMPTY WEIGHT: 1,952 LBS",
       "CONFIGURATION: UTILITY | PASSENGER"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "GARMIN GMA340H AUDIO",
       "KING KY155 VHF",
@@ -1805,12 +1599,8 @@
       "GARMIN AERA 500 VFR GPS",
       "NAL 9602-GSM GPS"
     ],
-    "interior": [
-      "DARK GREY CARPET, DARK GREY LEATHER SEATS"
-    ],
-    "exterior": [
-      "WHITE WITH RED STRIPES"
-    ]
+    "interior": ["DARK GREY CARPET, DARK GREY LEATHER SEATS"],
+    "exterior": ["WHITE WITH RED STRIPES"]
   },
   {
     "url": "https://avpay.aero/company/aviation-sales-international/product/2006-eurocopter-ec135-p2-turbine-helicopter-for-sale/",
@@ -1847,13 +1637,7 @@
     "VIEW DETAILS": "VIEW DETAILS",
     "price": "2,700,000",
     "long_description": "Description\n\nASI is proud to introduce this outstanding EC135 P2.\n\nLooking for a reliable & versatile helicopter that can transport you & your team to any destination with ease? Look no further than the Eurocopter EC135 P2, built in 2006 & ready to take on any mission.\n\nWith seating for up to 5 passengers & 2 crew members, the EC135 P2 is the perfect solution for corporate travel, VIP transport & emergency medical services. & with the optional Cineflex camera system, this helicopter is also ideal for aerial photography & filming.\n\nThe EC135 P2 is equipped with state-of-the-art avionics & safety features, making it one of the safest & most reliable helicopters on the market today. & with a cruising speed of up to 155 knots & a range of over 300 nautical miles, you can get where you need to go quickly & efficiently.\n\nSo why wait? Contact us today to learn more about the Eurocopter EC135 P2 & how it can meet your aviation needs. Our team of experts is ready to help you take flight & reach new heights!\n\nAIRFRAME\nHOURS 1613 h\n\nENGINES\n2x PW206B2\nHOURS 1617 h / 1507 h\nPOWER 2x 431 HP\n\nPROPELLER\n4 Blade L621M1010056\nHOURS 1613 h\n\nMAINTENANCE & INSPECTIONS\nARC DUE 09/2023\n\nAVIONICS & CONNECTIVITY\nGarmin GNS430\nGarmin GNS430\nGarmin GTX 330\nBecker AR3209\nHoneywell KRA450B\nELT\n\nADDITIONAL EQUIPMENT & INFORMATION\nOptional Cineflex Camera Hub & Controllunits & Screens",
-    "airframe": [
-      "HOURS 1613 h"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS 1613 h"],
     "avionics": [],
     "interior": [],
     "exterior": []
@@ -1887,19 +1671,11 @@
     "VIEW DETAILS": "VIEW DETAILS",
     "price": "3,375,000",
     "long_description": "Description\n\nAirframe\n14,073 hours\n\nAvionics\nFM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 DF (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Flight Data Recorder Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon\n\nAdditional Equipment\nRotor Brake Dual Controls Co-Pilot Instruments Cargo Hook Proviisions Internal Hoist Provisions Emergency Pop-Out Floatation System Engine Exhaust Deflector Aft Cabin ICS Schwayder Skid Shoes Life Rafts: Ground Handling Wheels Fwd X-Tube Aeronautical Accessories Aft X-Tube Aeronautical Accessories Blade Tie-Downs Engine Inlet/Pitot Tube Covers Aft Cabin Speaker\n\nInterior\nNumber of Seats 15",
-    "airframe": [
-      "14,073 hours"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["14,073 hours"],
     "avionics": [
       "FM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 DF (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Flight Data Recorder Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon"
     ],
-    "interior": [
-      "Number of Seats 15"
-    ],
+    "interior": ["Number of Seats 15"],
     "exterior": []
   },
   {
@@ -1932,20 +1708,11 @@
     "VIEW DETAILS": "VIEW DETAILS",
     "price": "3,375,000",
     "long_description": "Description\n\nAirframe\n15,945 hours\nFAA Operated Part 91 One Owner Since New\n\nEngines\nPratt & Whitney Canada PT6T-3B\n\nAvionics\nFM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 DF (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Flight Data Recorder Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon\n\nAdditional Equipment\nRotor Brake Dual Controls Co-Pilot Instruments Cargo Hook Proviisions Internal Hoist Provisions Emergency Pop-Out Floatation System Engine Exhaust Deflector Aft Cabin ICS Schwayder Skid Shoes Life Rafts: Ground Handling Wheels Fwd X-Tube Aeronautical Accessories Aft X-Tube Aeronautical Accessories Blade Tie-Downs Engine Inlet/Pitot Tube Covers Aft Cabin Speaker Component: (Interval) – (Time Remaining) Power Section (4500) – (4179) Power Section (4500)- (1221) Combining Gearbox (4000) – (2339) Main Rotor Hub Overhaul (2400) – (1297) Main Drive shaft Overhaul (3000) – (756) Main Rotor Blade Retire (4000) – (2397) Main Rotor Blade Retire (4000) – (2397) Scissor Tube Retire (9000) – (8375) Tail Rotor Hub Overhaul (2500) – (302) Tail Rotor 90D Gearbox Overhaul (5000) – (1623) Tail Rotor Blade Retire (5000) – (3448) Tail Rotor Blade Retire (5000) – (3448) Transmission Overahul (6000) – (1815) Intermediate Gearbox (5000) – (1042)\n\nInterior\nNumber of Seats 15\n\nInspection Status\n36 Month: November 2012 Specifications Subject to Verification Upon Buyer’s Inspection of the Helicopters and Records.",
-    "airframe": [
-      "15,945 hours",
-      "FAA Operated Part 91 One Owner Since New"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["15,945 hours", "FAA Operated Part 91 One Owner Since New"],
     "avionics": [
       "FM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 DF (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Flight Data Recorder Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon"
     ],
-    "interior": [
-      "Number of Seats 15"
-    ],
+    "interior": ["Number of Seats 15"],
     "exterior": []
   },
   {
@@ -1982,16 +1749,10 @@
       "17,608 hours",
       "17,608 Total Time FAA Operated Part 91 One Owner Since New"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "FM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon DF"
     ],
-    "interior": [
-      "Number of Seats 15"
-    ],
+    "interior": ["Number of Seats 15"],
     "exterior": []
   },
   {
@@ -2024,20 +1785,11 @@
     "VIEW DETAILS": "VIEW DETAILS",
     "price": "3,075,000",
     "long_description": "Description\n\nAirframe\n17,324 Hours\nFAA Operated Part 91 One Owner Since New\n\nEngines\nPratt & Whitney Canada PT6T-3B\n\nAvionics\nFM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon DF\n\nAdditional Equipment\nRotor Brake Dual Controls Co-Pilot Instruments Cargo Hook Proviisions Internal Hoist Provisions Emergency Pop-Out Floatation System Engine Exhaust Deflector Aft Cabin ICS Schwayder Skid Shoes Life Rafts: Ground Handling Wheels Fwd X-Tube Aeronautical Accessories Aft X-Tube Aeronautical Accessories Blade Tie-Downs Engine Inlet/Pitot Tube Covers Aft Cabin Speaker Component Interval Time Remaining Power Section 4500 479 Power Section 4500 2789 Combining Gearbox 4000 2354 Main Rotor Hub Overhaul 2400 1167 Main Drive shaft Overhaul 3000 2441 Main Rotor Blade Retire 4000 2002 Main Rotor Blade Retire 4000 2002 Scissor Tube Retire 9000 3023 Tail Rotor Hub Overhaul 2500 430 Tail Rotor 90D Gearbox Overhaul 5000 3274 Tail Rotor Blade Retire 5000 435 Tail Rotor Blade Retire 5000 1444 Transmission Overahul 6000 1311 Intermediate Gearbox 5000 1210\n\nInterior\nNumber of Seats 15\n\nInspection Status\n36 Month: February 2011 Specifications Subject to Verification Upon Buyer’s Inspection of the Helicopters and Records.",
-    "airframe": [
-      "17,324 Hours",
-      "FAA Operated Part 91 One Owner Since New"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["17,324 Hours", "FAA Operated Part 91 One Owner Since New"],
     "avionics": [
       "FM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon DF"
     ],
-    "interior": [
-      "Number of Seats 15"
-    ],
+    "interior": ["Number of Seats 15"],
     "exterior": []
   },
   {
@@ -2075,16 +1827,10 @@
       "Total Time 12,046",
       "FAA Operated Part 91 One Owner Since New"
     ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
     "avionics": [
       "FM Wulfsberg RT138F (2) Vertical Gyro VG-14H (2) Directional Gyro C14A Transponder KPX-756 Encoding Altimeter (2) Radio Altimeter Honeywell RT-300 Radar King RT1401B GPS Trimble Approach-Plus TNL-2101 DME KDM706 DF (2) VHF KTR 908 ADF KDF 806 NAV KNR 634 DME KDM706 Flight Data Recorder Underwater Sonar Beacon DK100 PA/SIREN AM 400 Baker Passenger Briefing Floatable Emergency Locator Beacon"
     ],
-    "interior": [
-      "Number of Seats, 15"
-    ],
+    "interior": ["Number of Seats, 15"],
     "exterior": []
   },
   {
@@ -2119,13 +1865,7 @@
     "VIEW DETAILS": "VIEW DETAILS",
     "price": "875,000",
     "long_description": "Description\n\nAIRFRAME\nHOURS: 3100 h\n\nENGINE\nTYPE: 2x Engines Arrius 1A\nHOURS: Approx 2000h each\nPOWER 456 HP\n\nAVIONICS\nGarmin GNS530\nAutopilot SFIM\nKing KX165A\nKing KMA24H\nKing KR87\nGarmin GTX330\nKing DME",
-    "airframe": [
-      "HOURS: 3100 h"
-    ],
-    "rotors_controls": [],
-    "powerplant_fuel_system": [],
-    "transmission_hydraulic": [],
-    "electrical_system": [],
+    "airframe": ["HOURS: 3100 h"],
     "avionics": [
       "Garmin GNS530",
       "Autopilot SFIM",

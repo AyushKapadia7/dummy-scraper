@@ -120,12 +120,6 @@ async function scrapeListing(url) {
       }
 
       json.airframe = extractSection("Airframe");
-      json.rotors_controls = extractSection("Rotors & Controls");
-      json.powerplant_fuel_system = extractSection("Powerplant & Fuel System");
-      json.transmission_hydraulic = extractSection(
-        "Transmission Drive & Hydraulic System"
-      );
-      json.electrical_system = extractSection("Electrical System");
       json.avionics = extractSection("Avionics");
       json.interior = extractSection("Interior");
       json.exterior = extractSection("Exterior");

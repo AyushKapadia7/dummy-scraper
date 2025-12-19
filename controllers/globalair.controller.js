@@ -79,7 +79,6 @@ async function scrapeListing(url) {
         json.location = null;
       }
 
-      // Year, Manufacturer, Serial Number, etc.
       document.querySelectorAll(".col-md-6 .row").forEach((row) => {
         const key = clean(row.children[0]?.innerText?.replace(":", ""));
         const value = clean(row.children[1]?.innerText);
@@ -99,16 +98,11 @@ async function scrapeListing(url) {
         json.price = "NO_PRICE";
       }
 
-      // Short Summary
-      json.short_description = clean(
-        document.querySelector(".mobileLHDtl div")?.innerText
-      );
-
       // Long Description (full HTML text)
       const desc = document.querySelector("#divaddetails");
       json.long_description = desc ? clean(desc.innerText) : null;
 
-      // ---------- Section Extractors ----------
+      // ---------- CARD SECTION EXTRACTOR ----------
       function extractSection(cardTitle) {
         const card = [...document.querySelectorAll(".card-header")].find((el) =>
           el.innerText.trim().toLowerCase().includes(cardTitle.toLowerCase())
@@ -128,9 +122,34 @@ async function scrapeListing(url) {
 
       json.airframe = extractSection("Airframe");
       json.engines = extractSection("Engine");
-      json.interior = extractSection("Interior Details");
-      json.exterior = extractSection("Exterior Details");
-      json.avionics = extractSection("Avionics");
+
+      function extractMobileSection(title) {
+        const block = [...document.querySelectorAll(".mobileLHDtl")].find(
+          (div) =>
+            div.querySelector("h4")?.innerText.trim().toLowerCase() ===
+            title.toLowerCase()
+        );
+
+        if (!block) return [];
+
+        const textBlocks = [...block.querySelectorAll("div")]
+          .map((d) => clean(d.innerText))
+          .filter(Boolean);
+
+        return textBlocks
+          .flatMap((t) =>
+            t
+              .split("<br>")
+              .join("\n")
+              .split("\n")
+              .map((x) => clean(x))
+          )
+          .filter(Boolean);
+      }
+
+      json.interior = extractMobileSection("Interior Details");
+      json.exterior = extractMobileSection("Exterior Details");
+      json.avionics = extractMobileSection("Avionics");
 
       // Main Image (first large photo)
       const firstImg = document.querySelector("img.lazyload, img[src]");
@@ -147,7 +166,6 @@ async function scrapeListing(url) {
             !src.includes("placeholder")
         );
 
-      // Phone extraction (iframe data)
       const iframeBtn = document.querySelector(
         "button[id^='Contact'][data-businessphone]"
       );
@@ -158,10 +176,11 @@ async function scrapeListing(url) {
 
       json.whatsapp = null; // Not available
 
+      if (json.Price !== undefined || json.Price !== null) delete json.Price;
       return json;
     });
   } catch (err) {
-    console.log("⚠️ Extraction failed — skipping:", url);
+    console.log("⚠️ Extraction failed — skipping:", url, err);
     await browser.close();
     return null;
   }
@@ -194,7 +213,7 @@ export async function scrapeGlobalAirController(req, res) {
     }
 
     fs.writeFileSync(
-      "./scraped-data/globalair-results.json",
+      "./scraped-data/globalair-results-new.json",
       JSON.stringify(results, null, 2)
     );
 

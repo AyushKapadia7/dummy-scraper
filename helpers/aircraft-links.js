@@ -887,4 +887,6 @@ export const airCraftLinks = [
   "https://www.aircraft.com/aircraft/239747549/d-hstv-2018-bell-505-jet-ranger-x",
   "https://www.aircraft.com/aircraft/239742977/c-fcmp-2024-airbus-h125",
   "https://www.aircraft.com/aircraft/239727173/n903bm-2017-robinson-r66",
+
+  "Continue from Page 40",
 ];
